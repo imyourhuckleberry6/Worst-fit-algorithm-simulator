@@ -15,3 +15,13 @@ You can download and install the latest Python version from: www.python.org befo
 After installing python, the Module which contains the demonstration of the Worst fit algorithm, can be run through a console program, such as Window’s Command prompt or VS Code terminal.
 
 Apart from these methods to run the script, it can also be accessible through a online code editor/terminal program. Although the guarantee of successful simulation on a browser cannot be fully assured due to the varying factors of each browser. If such methods fail, please run the program locally as intented.
+
+# Features
+
+- Add Processes: User can add a new process to the memory.
+
+- Free Memory: Remove processes from the memory to free up space.
+
+- View Memory Status: View all the available partitions of the modules as well as their sizes and status.
+
+#
