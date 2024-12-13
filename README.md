@@ -25,3 +25,5 @@ Apart from these methods to run the script, it can also be accessible through a 
 - View Memory Status: View all the available partitions of the modules as well as their sizes and status.
 
 #
+
+Made by M. M. Hettige using Python Language.
